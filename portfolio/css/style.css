@@ -1,0 +1,50 @@
+.back{
+  background-color:lightcyan;
+}
+body{
+  padding:none;
+}
+nav{
+  display:block;
+  
+}
+.droidsans{
+  font-family: 'Droid Sans', sans-serif;  
+}
+.raleway{
+  font-family: 'Raleway', sans-serif;
+
+}
+.ptserif{
+  font-family: 'PT Serif', serif;
+}
+.karla{
+  font-family: 'Karla', sans-serif;
+}
+.navigation{
+  font-size:20px;
+  color:darkslategrey;
+  
+}
+
+.button{
+  background-color:lightcyan;
+  border:none;
+  border-radius:00px;
+}
+.aboutbutton{
+  margin-left:900px;
+  margin-top:30px;
+}  
+.portfoliobutton{
+  margin-top:30px;
+}
+.contactbutton{
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+
+.fix{
+  posit
+}
